@@ -1,11 +1,11 @@
-# Titulo 
+# Título 
 <h1 align="center"> Iniciação Científica </h1>
 
-## Descrição do Projeto
+# Descrição do Projeto
 <p align="justify"> Projeto de Web Scraping e análise de dados (currículos lattes cadastrados no CNPQ) desenvolvido em Python 
  </p>
 
-# objetivo principal
+# Objetivo principal
 
 Através desse código analisamos vários currículos lattes de pesquisadores que compõem os grupos de pesquisa da usp-leste, atribuímos pontuações a esses grupos com base em critérios pré-estabelecidos pela comissão de pesquisa e, essas pontuações servem para redistribuir de maneira mais justa os espaços disponíveis, na USP-leste, entre grupos de pesquisa, sendo que grupos com mais pontos tem prioridades em detrimento dos outros.
 

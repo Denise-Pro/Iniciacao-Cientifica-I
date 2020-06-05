@@ -25,8 +25,18 @@ Após obter as respostas via forms, eu construí um programa que extrai os dados
 
 # Resumo das Funcionalidades
 
-:trophy: Extrai dados com formato csv de arquivos que estão em diretórios locais |
-:trophy: Extrai dados xls de Planilhas do Google (Google sheetes) via api |
-Calcula Outliers (em breve) |
-web scraping e parser de dados com formato xml (em breve) |
-Resume as análises em visualizações gráficas (em breve)
+:trophy: Extrai dados com formato csv de arquivos que estão em diretórios locais 
+
+:trophy: Extrai dados xls de Planilhas do Google (Google sheetes) via api 
+
+:warning: Calcula Outliers (em breve) 
+
+:warning: web scraping e parser de dados com formato xml (em breve) 
+
+:warning: Resume as análises em visualizações gráficas (em breve)
+
+# Desenvolvedores
+[<img src="https://avatars2.githubusercontent.com/u/66394744?s=400&u=e5a0cd3c7d94c95ba5926502a2f80720ff814ff7&v=4" width=115 > <br> <sub> Denise Proença </sub>](https://github.com/Denise-Pro) 
+
+
+[<img src="https://avatars3.githubusercontent.com/u/57142259?s=400&u=9ded641ffbfe9140fe8f2792bab86ac851716788&v=4" width=115 > <br> <sub> Ruanitto Docine </sub>](https://github.com/ruandocini)

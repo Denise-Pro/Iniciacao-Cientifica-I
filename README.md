@@ -29,7 +29,7 @@ Após obter as respostas via forms, eu construí um programa que extrai os dados
 
 :trophy: Extrai dados xls de Planilhas do Google (Google sheetes) via api 
 
-:warning: Calcula Outliers (em breve) 
+:trophy: Blox-Plot -> Outliers (em breve) 
 
 :warning: web scraping e parser de dados com formato xml (em breve) 
 

@@ -19,7 +19,7 @@ Em desenvolvimento :warning:
 :heavy_check_mark: Na segunda etapa, percebemos que não seriam possíveis concluir determinadas análises, pois alguns dados não estavam disponíveis nos lattes dos pesquisadores. Diante desse fato, contruímos um formulário no Google forms e distribuímos entre os grupos com perguntas que não podiam ser respondidas analisando apenas os currículos dos mesmos.
 Após obter as respostas via forms, eu construí um programa que extrai os dados via api deste forms. Usei a api do google Sheets para extrair os dados com formato xls.
 
-:warning: A terceira etapa será refatorar o código, calcular medias as ponderadas e os outliers
+:trophy: A terceira etapa será refatorar o código, calcular medias as ponderadas e os outliers
 
 :warning: A quarta e última etapa será extrair os currículos lattes diretamente da plataforma cnpq e analisá-los com o formato xml, sem precisar usar o programa secundário perl citado na primeira etapa. Toda a esrutura será mudada para atender o formato xml.
 
